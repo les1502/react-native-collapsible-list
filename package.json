@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "react-native-collapsible-list@1.0.0",
+      "F:\\App2\\App"
+    ]
+  ],
+  "_from": "react-native-collapsible-list@1.0.0",
+  "_id": "react-native-collapsible-list@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-gcvwouFBRz+fbVo7rv1ApLIbskk=",
+  "_location": "/react-native-collapsible-list",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-collapsible-list@1.0.0",
+    "name": "react-native-collapsible-list",
+    "escapedName": "react-native-collapsible-list",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-collapsible-list/download/react-native-collapsible-list-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "F:\\App2\\App",
+  "author": {
+    "name": "Hamid Hadi",
+    "email": "hamidhadi@live.com",
+    "url": "https://github.com/hamidhadi"
+  },
+  "bugs": {
+    "url": "https://github.com/hamidhadi/react-native-collapsible-list/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  },
+  "description": "A ReactNative collapsible list component",
+  "homepage": "https://github.com/hamidhadi/react-native-collapsible-list#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "collapsible",
+    "component"
+  ],
+  "license": "GPL-2.0",
+  "main": "index.js",
+  "name": "react-native-collapsible-list",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidhadi/react-native-collapsible-list.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
