@@ -1,5 +1,5 @@
 # react-native-collapsible-list
-A ReactNative collapsible list component
+组件下拉选择框
 
 ![StretchyBatman](/demo.gif)
 
